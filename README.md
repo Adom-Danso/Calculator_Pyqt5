@@ -1,2 +1,2 @@
 # Calculator_Pyqt5
-Simple calculator app with python PyQt5
+Simple Graphical calculator application with python PyQt5
